@@ -15,7 +15,7 @@ public class AdicaoTest{
     
     @Test
     public void deveriaRetornar5QuandoPassa2e3(){
-    doule valorEsperado = 5;
+    double valorEsperado = 5;
     double valorRetornado = adicao.calcular(2,3);
     
     
