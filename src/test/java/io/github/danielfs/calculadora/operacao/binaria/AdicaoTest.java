@@ -9,7 +9,7 @@ public class AdicaoTest{
     private Adicao adicao;
     
     @Before
-    publiic void inicializar(){
+    public void inicializar(){
     adicao = new Adicao();
     }
     
